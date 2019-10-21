@@ -16,10 +16,10 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" 
-title                    : "پوررنگ آتشی"
+locale                   : "Iran" 
+title                    : "زهرا مومنی نژاد"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "zahra" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               :
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "zahramomeninezhad"
+  avatar           : "/assets/images/bio-photo1.jpg"
   bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : zahramomeninezhad@gmail.com
+  twitter: zahramomeninezhad
+  linkedin: zahramomeni
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: zahramomeni
+  instagram: zahra.momeni.d
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

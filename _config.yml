@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 locale                   : "Iran" 
 title                    : "زهرا مومنی نژاد"
 title_separator          : "-"
-name                     : "zahra" 
+name                     : "Zahra" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"

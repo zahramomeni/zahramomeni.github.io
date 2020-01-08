@@ -118,9 +118,12 @@ author:
   github: zahramomeni
   instagram: zahra.momeni.d
   links:
+    - label: "calendly"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://calendly.com/zahramomeninezhad.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:your.zahramomeninezhad@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

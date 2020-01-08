@@ -1,5 +1,5 @@
 ---
-layout: course website
+layout: posts
 title: course website
 ---
 This website contains information such as a master's name and basic information about famous sources and the definition and application of this lesson.

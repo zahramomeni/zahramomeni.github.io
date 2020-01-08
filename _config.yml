@@ -120,7 +120,7 @@ author:
   links:
     - label: "calendly"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://calendly.com/zahramomeninezhad"
+      url: "https://calendly.com/zahramomeninezhad"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.zahramomeninezhad@email.com
@@ -145,7 +145,7 @@ footer:
   links:
     - label: "calendly"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://calendly.com/zahramomeninezhad"
+      url: "https://calendly.com/zahramomeninezhad"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:

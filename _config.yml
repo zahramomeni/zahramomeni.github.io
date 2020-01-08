@@ -143,6 +143,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "calendly"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://calendly.com/zahramomeninezhad.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:

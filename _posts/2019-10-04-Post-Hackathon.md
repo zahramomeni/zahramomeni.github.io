@@ -19,7 +19,7 @@ title: Hackathon
 ## جهت استفاده از این اپ ابتدا در یکی از مرورگر ها آدرس زیر را وارد می نماییم
 (bit.do/zpoet)
 
-![alt_text](../assets/images/poem.png "poem")
+![alt_text](../assets/images/poem.PNG "poem")
 ## اگر در لپتاپ این ادرس را وارد کنیم با این صفحه روبه رو می شویم
 
 ![alt_text](../assets/images/poem_ph.jpg "poem.")
